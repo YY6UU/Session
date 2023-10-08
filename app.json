@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/Tepthonee/SessionBot",
+  "repository": "https://github.com/YY6UU/Session",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
